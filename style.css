@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(212, 161, 34);
+    font-family: Arial, Verdana, sans-serif;
+}
+
+h1 {
+    font-weight: 800;
+    text-decoration: underline;
+}
+
+li,
+p {
+    font-size: 18px;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
